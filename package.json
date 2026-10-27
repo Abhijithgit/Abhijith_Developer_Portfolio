@@ -5,8 +5,7 @@
   "scripts": {
     "start": "ng serve --host 127.0.0.1 --port 4200",
     "build": "ng build",
-    "build:pages": "ng build --configuration production --base-href /Abhijith_E_A_Developer_portfolio/"
-  },
+"build:pages": "ng build --configuration production --base-href /Abhijith_Developer_Portfolio/"  },
   "dependencies": {
     "@angular/common": "^21.0.0",
     "@angular/compiler": "^21.0.0",
